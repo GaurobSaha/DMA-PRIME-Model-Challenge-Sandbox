@@ -20,6 +20,6 @@ methods_long: "An XGBoost gradient-boosted decision tree forecasting model train
 ensemble_of_models: false
 ensemble_of_hub_models: false
 model_version: "1.0"
-website_url: ""
+website_url: "https://github.com/GaurobSaha/DMA-PRIME-Model-Challenge-Sandbox"
 team_funding: ""
 backfill_adjustment: "false"
